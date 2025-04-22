@@ -1,3 +1,5 @@
+# Privacy Policy for HeartBud
+
 ## Summary
 
 This Privacy Policy outlines how HeartBud handles user information in full compliance with Apple’s App Store requirements and global data protection laws. HeartBud operates entirely on-device, collecting no personally identifiable information, and no data is transmitted to our servers.
